@@ -9,3 +9,9 @@ var getRegulationErrorData = function () {
 
 	console.log(date + "\t" + user_id + "\t" + identification_type + "\t" + identification_number + "\t\t\t\tNR");
 };
+
+
+function testAlert() {
+	alert("funciona!");
+	console.log("funciona!!)
+}
